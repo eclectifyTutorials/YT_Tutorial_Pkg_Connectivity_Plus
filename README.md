@@ -1,2 +1,2 @@
-# YT_Tutorial_Pkg_Connectivity_Plus
-Code for the Youtube tutorial (https://youtu.be/aDbAOm7T9XM) on how to use the Flutter library connectivity_plus
+# Youtube Tutorial Code For Flutter Package *connectivity_plus*
+Code for the Youtube tutorial (https://youtu.be/gRuprcF1tw4) on how to use the Flutter library connectivity_plus
